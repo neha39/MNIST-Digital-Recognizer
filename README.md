@@ -12,3 +12,5 @@ This Notebook follows three main parts:
 * The data preparation
 * The CNN modeling and evaluation
 * The results prediction and submission
+
+<img src="images/predict.png" width="40%">
