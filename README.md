@@ -1,6 +1,8 @@
 # MNIST Digital Recognizer
 
-<img src="images/didital.jpeg" width="40%">
+<p align="center">
+  <img src="images/didital.jpeg" width="40%">
+</p>  
 
 This is a 5 layers Sequential Convolutional Neural Network for digits recognition trained on MNIST dataset. I choosed to build it with keras API (Tensorflow backend) which is very intuitive. Firstly, I will prepare the data (handwritten digits images) then i will focus on the CNN modeling and evaluation.
 
@@ -13,4 +15,6 @@ This Notebook follows three main parts:
 * The CNN modeling and evaluation
 * The results prediction and submission
 
-<img src="images/predict.png" width="40%">
+<p align="center">
+  <img src="images/predict.png" width="40%">
+</p>
